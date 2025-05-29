@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c79c275.css",
-    "main.js": "/static/js/main.d274ef39.js",
+    "main.css": "/static/css/main.00a97314.css",
+    "main.js": "/static/js/main.164af704.js",
+    "static/media/salzburg.jpg": "/static/media/salzburg.9fa778668b1cb2343c67.jpg",
+    "static/media/sl.jpg": "/static/media/sl.f72d4b52b4ac86b70bde.jpg",
+    "static/media/imlaur.jpg": "/static/media/imlaur.9756d16c43ca855a57f2.jpg",
+    "static/media/italy1.jpeg": "/static/media/italy1.ca8dc7a23803a046b1f0.jpeg",
+    "static/media/gaisburg1.jpeg": "/static/media/gaisburg1.81b4c75d541fb29bc2be.jpeg",
+    "static/media/saher2.jpeg": "/static/media/saher2.3d5188ed8fa1b0f2bc68.jpeg",
+    "static/media/saher1.jpeg": "/static/media/saher1.1a4b6b9faa170442eebd.jpeg",
+    "static/media/saher3.jpeg": "/static/media/saher3.012f46213502a834b5b2.jpeg",
     "index.html": "/index.html",
-    "main.2c79c275.css.map": "/static/css/main.2c79c275.css.map",
-    "main.d274ef39.js.map": "/static/js/main.d274ef39.js.map"
+    "main.00a97314.css.map": "/static/css/main.00a97314.css.map",
+    "main.164af704.js.map": "/static/js/main.164af704.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c79c275.css",
-    "static/js/main.d274ef39.js"
+    "static/css/main.00a97314.css",
+    "static/js/main.164af704.js"
   ]
 }

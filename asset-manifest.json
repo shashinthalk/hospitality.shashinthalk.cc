@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eef7f4c.css",
+    "main.css": "/static/css/main.a7bfd007.css",
     "main.js": "/static/js/main.ad51be54.js",
     "static/media/salzburg.jpg": "/static/media/salzburg.9fa778668b1cb2343c67.jpg",
     "static/media/sl.jpg": "/static/media/sl.f72d4b52b4ac86b70bde.jpg",
@@ -11,11 +11,11 @@
     "static/media/saher1.jpeg": "/static/media/saher1.1a4b6b9faa170442eebd.jpeg",
     "static/media/saher3.jpeg": "/static/media/saher3.012f46213502a834b5b2.jpeg",
     "index.html": "/index.html",
-    "main.3eef7f4c.css.map": "/static/css/main.3eef7f4c.css.map",
+    "main.a7bfd007.css.map": "/static/css/main.a7bfd007.css.map",
     "main.ad51be54.js.map": "/static/js/main.ad51be54.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eef7f4c.css",
+    "static/css/main.a7bfd007.css",
     "static/js/main.ad51be54.js"
   ]
 }
